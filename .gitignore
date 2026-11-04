@@ -1,0 +1,32 @@
+node_modules/
+dist/
+__pycache__/
+*.pyc
+.env
+db.sqlite3
+.venv/
+venv/
+.vscode/
+# React
+node_modules/
+dist/
+
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Environment variables
+.env
+.env.*
+
+# Database
+db.sqlite3
+
+# VS Code
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
+

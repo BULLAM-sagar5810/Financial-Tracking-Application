@@ -1,0 +1,3 @@
+from django.contrib import admin
+from .models import Budget, Category, Transaction
+admin.site.register([Budget, Category, Transaction])
